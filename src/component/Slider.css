@@ -1,0 +1,16 @@
+.carousel-item {
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+.carousel-item img {
+  height: 600px; 
+  /* object-fit:cover;  */
+}
+
+.slider .carousel-caption {
+  background-color: rgba(0, 0, 0, 0.5); 
+  color: white;
+  padding: 20px; 
+}
+
